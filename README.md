@@ -1,6 +1,6 @@
-🌐 BotSphere
+## 🌐 BotSphere
 
-**An intelligent chatbot platform that helps users automate conversations and answer queries.**
+An intelligent chatbot platform that helps users automate conversations and answer queries.
 
 ---
 
