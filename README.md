@@ -85,7 +85,3 @@ npm run dev
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
 
 ---
-
-✅ This README is **ready to be added**.
-
-If you want, I can **also write a super short “About this project” section** that can appear at the top of GitHub to attract visitors quickly. Do you want me to do that?
