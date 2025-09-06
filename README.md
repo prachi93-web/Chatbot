@@ -1,8 +1,4 @@
-Perfect! Here’s a **GitHub-ready, visually attractive README** for your BotSphere project:
-
----
-
-# ![BotSphere](https://img.icons8.com/ios-filled/50/000000/chatbot.png) BotSphere
+🌐 BotSphere
 
 **An intelligent chatbot platform that helps users automate conversations and answer queries.**
 
